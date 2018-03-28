@@ -4,15 +4,19 @@
  더욱 ~하다 처럼 강조해주는 것!
 
  1. even though
+
   though(~에도 불구하고) 여기에 even이 강조해주어서 비록 ~ 임에도 불구하고 처럼 쓰인다.
 
  2. even if
+
     even(강조) + if(만약에 ~한다면)이 되어 비록 만약 ~하더라도 처럼 쓰인다.
 
  3. even when
+
     even(강조) + when(~할 때)는 비록 ~ 일 때에도 처럼 쓰인다.
 
  4. even so
+ 
     even(강조) + so(그래서, 그렇게) 비록 그렇다 하더라도 처럼 쓰인다.
 
 #### **even though와 even if의 차이**
