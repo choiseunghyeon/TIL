@@ -24,7 +24,12 @@ The letters in J are guaranteed distinct, and all characters in J and S are lett
 
 
 
-What I learned
+**What I Learned**
 
 - new Set(); 생성자 함수(constructor)에 string을 매개변수로 주면  고유한 문자만을 지정한다. ex) let a = new Set('abcdeee'); => a는 a,b,c,d,e의 문자를 가지고 있다.
-- Set이 가지고 있는 function들에 대해 배움 ex) setj.add('a'); setj.has('a'); 
+- Set이 가지고 있는 function들에 대해 배움 ex) setj.add('a'); setj.has('a');
+
+
+**ref**
+
+ - https://msdn.microsoft.com/ko-kr/library/dn251547(v=vs.94).aspx
