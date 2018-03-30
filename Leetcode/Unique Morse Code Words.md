@@ -1,6 +1,7 @@
 # Unique Morse Code Words
 
 **Description**
+
 International Morse Code defines a standard encoding where each letter is mapped to a series of dots and dashes, as follows: "a" maps to ".-", "b" maps to "-...", "c" maps to "-.-.", and so on.
 
 For convenience, the full table for the 26 letters of the English alphabet is given below:
@@ -46,4 +47,4 @@ Now, given a list of words, each word can be written as a concatenation of the M
 **What I Learned**
 - new Set(); 생성자 함수(constructor)에 매개변수로 string뿐만 아니라 배열또한 넣을 수 있다.
 - array to string함수 join 함수 array.join('')시 공백없이 배열의 변수들을 스트링으로 합침
-- charCodeAt함수 문자.charCodeAt()을 통해 ascii코드 값을 알 수 있음 
+- charCodeAt함수 문자.charCodeAt()을 통해 ascii코드 값을 알 수 있음
