@@ -1,6 +1,7 @@
 # Range Sum of BST
 
 **Description**
+
 Given the root node of a binary search tree, return the sum of values of all nodes with value between L and R (inclusive).
 
 The binary search tree is guaranteed to have unique values.
@@ -55,4 +56,4 @@ The binary search tree is guaranteed to have unique values.
 
 **What I Learned**
 - BST를 순회하면서 재귀함수를 사용해봄
-- BST에 대한 이해도 
+- BST에 대한 이해도
