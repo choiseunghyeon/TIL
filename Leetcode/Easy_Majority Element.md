@@ -23,7 +23,7 @@ Example 2:
     */
     // 시간복잡도 O(n)
     var majorityElement = function(nums) {
-      let hashTable = [];
+      let hashTable = [], majorityLength = Math.floor(nums.length/2);
 
       for(let i = 0 ; i < nums.length ; i++){
           let num = nums[i];
@@ -31,7 +31,7 @@ Example 2:
           hashTable[num] = hashTable[num] === undefined ? 1 : hashTable[num]+1;
 
           // 만약 현재 추가한 num의 갯수가 현재 배열의 과반수를 차지한다면 현재 num을 return
-          if(hashTable[num] > Math.floor(nums.length/2))
+          if(hashTable[num] > majorityLength)
              return num;
       }
 
