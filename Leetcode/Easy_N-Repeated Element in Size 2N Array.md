@@ -48,7 +48,3 @@ Example 2:
 
 **What I Learned**
 - 적절한 자료구조를 선택하는 것만으로 문제 해결에 빠르게 접근할 수 있으며 효율적인 로직이 구현됨.
-
-
-**ref**
-- https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce
