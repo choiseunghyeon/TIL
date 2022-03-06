@@ -1,0 +1,53 @@
+{
+  "name": "",
+  "isOrdered": true,
+  "folders": {
+    "Daily": {
+      "name": "Daily",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "English": {
+      "name": "English",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "JS": {
+      "name": "JS",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "Leetcode": {
+      "name": "Leetcode",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "Node.js": {
+      "name": "Node.js",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "Nuxt": {
+      "name": "Nuxt",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "Redux": {
+      "name": "Redux",
+      "isOrdered": true,
+      "folders": {},
+      "files": {
+        "reselect": 0
+      }
+    }
+  },
+  "files": {
+    "README": 0
+  }
+}
