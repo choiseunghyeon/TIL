@@ -63,8 +63,8 @@ export default function MyApp({ Component, pageProps }) {
 
 ## Data Fetching
 
-layout 내에서 useEffect, SWR을 클라이언트 측에서 데이터를 가져올 수 있습니다.  
-이 파일은 페이지가 아니므로 getStaticProps, getServerSideProps를 사용할 수 없습니다.
+layout은 페이지가 아니므로 getStaticProps, getServerSideProps를 사용할 수 없습니다.  
+그래서 useEffect, SWR 등으로 클라이언트 측에서 데이터를 가져올 수 있습니다.
 
 ```typescript
 // components/layout.js
